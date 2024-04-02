@@ -1,0 +1,20 @@
+#head{
+  margin: auto;
+  text-align: center;
+
+}
+#colorPicked{
+  margin: auto;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 150px;
+  border: 1px solid grey;
+}
+
+#colorPickedrgb{
+  margin: auto;
+  margin-bottom: 10px;
+  width: 300px;
+  padding: 6px 20px;
+  border: 1px solid grey;
+}
